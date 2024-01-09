@@ -32,7 +32,6 @@ Such attributes refer not to the overall number but the change to the correspond
 For example, consider attribute delta friend cnt. If, for some user, friend cnt = 50, and delta friend cnt = –5, it means that the user had 50 friends at the time of the previous marketing campaign, but this number reduced by 5 during the 3 months before the campaign (i.e., user had 55 friends 3 months ago).  
 
 ## Steps
-1. Based on the description of the business, select a proper performance metric for model evaluation and justify your selection from a business perspective.
-2. Build the best model that achieves highest performance on the metric of your selection.
-3. Note that the class distribution is highly imbalanced (with class 1 being the minority class), you are highly encouraged to consider sampling techniques (e.g., oversampling the minority class).
-4. Also present the model to a management-oriented audience.
+1. Based on the description of the business, select a proper performance metric for model evaluation and justify your selection from a business perspective  
+2. Build the best model that achieves highest performance on the metric of your selection  
+3. Note that the class distribution is highly imbalanced (with class 1 being the minority class), thus highly encouraged to consider sampling techniques (e.g., oversampling the minority class)  
