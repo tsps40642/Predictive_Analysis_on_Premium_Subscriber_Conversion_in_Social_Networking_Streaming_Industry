@@ -9,7 +9,7 @@ We are interested in predicting which people would be likely to convert from fre
 A labeled dataset containing 41,540 records (1540 adopters and 40,000 non-adopters) from the previous marketing campaign is provided. 
 Each record represents a different user who was targeted in the previous marketing campaign, described with 25 attributes. 
 
-The following is a brief description of the attributes (attribute name/type/explanation):  
+The following is a brief description of the attributes (attribute name / type / explanation):  
 • adopter / binary (0 or 1) / whether a user became a subscriber within the 6 month period after the marketing campaign (target variable)   
 • user id / integer / unique user id  
 • age / integer / age in years  
